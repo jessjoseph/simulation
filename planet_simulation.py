@@ -1,4 +1,4 @@
-#simualation of planets rotating around the sun
+#planet simulation 
 import pygame
 import math
 pygame.init()
